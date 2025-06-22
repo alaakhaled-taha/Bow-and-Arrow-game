@@ -5,11 +5,12 @@ Objective: Shoot arrows to pop as many balloons as possible.
 
 Gameplay:
 
-    Balloons move across the screen.
-    
-    The player uses a bow to aim and shoot arrows.
-    
-    The game keeps track of hits and scores.
+Balloons move across the screen.
+
+The player uses a bow to aim and shoot arrows.
+
+The game keeps track of hits and scores.  
+
 🎨 Features:
 
     🎯 Arrow shooting mechanics
@@ -21,6 +22,7 @@ Gameplay:
     🎮 Simple keyboard controls
     
     💻 Java Swing-based interface
+
 🧠 Learning Outcomes
 
     Fundamentals of Object-Oriented Programming (OOP)
@@ -37,6 +39,9 @@ Team Name: Pixel Pioneers
 Members:
 
 Alaa-Abdelnasser
+Ekram Ahmed
+AmiraElHafez
+AlaaMobarek
 
 
 
