@@ -1,5 +1,5 @@
 🎯 Bow and Arrow Game – Pixel Pioneers
-Bow and Arrow game, a simple Java-based game. In this game, the player shoots arrows to pop moving balloons. It’s a fun exercise combining object-oriented programming, basic game physics, and Java FX and scenebuilder for GUI rendering.
+Bow and Arrow game, a simple Java-based game. In this game, the player shoots arrows to pop moving balloons. It’s a fun exercise combining object-oriented programming, basic game physics, processing for GUI rendering.
 🕹️ Game Overview
 Objective: Shoot arrows to pop as many balloons as possible.
 
@@ -29,7 +29,7 @@ The game keeps track of hits and scores.
     
     Basics of game loop design
     
-    Working with Java FX for GUIs
+    Working with processing for GUIs
     
     Handling collision detection and simple physics
     
