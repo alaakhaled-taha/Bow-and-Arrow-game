@@ -29,7 +29,7 @@ The game keeps track of hits and scores.
     
     Basics of game loop design
     
-    Working with Java Swing for GUIs
+    Working with Java FX for GUIs
     
     Handling collision detection and simple physics
     
